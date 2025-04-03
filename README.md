@@ -15,18 +15,6 @@
 
 Wait for the initial Codespaces process to complete.
 
-#### Next.JS + React (front-end framework)
-
-```
-npm install next@latest react@latest react-dom@latest
-```
-
-#### Supabase (database)
-
-```
-npm install @supabase/supabase-js
-```
-
 #### Running the preview server
 
 ```
@@ -35,6 +23,12 @@ npm run dev
 
 #### Installing other packages
 
-https://www.npmjs.com/
+```
+npm i bootstrap
+```
 
-Have fun!
+#### Supabase (database)
+
+```
+npm install @supabase/supabase-js
+```
