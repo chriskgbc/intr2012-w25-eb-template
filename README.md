@@ -4,11 +4,6 @@
 
 - Consult the provided code snippets at https://letterform.app/chris.kim@georgebrown.ca/sample/intr2012-w25-eb-source as appropriate
 
-## Required Links
-
-- https://nextjs.org/docs/app/getting-started/installation#manual-installation
-- https://supabase.com/docs/guides/getting-started/quickstarts/reactjs
-
 ## Bring up
 
 ### Terminal
