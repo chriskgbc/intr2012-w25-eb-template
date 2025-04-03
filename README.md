@@ -27,7 +27,13 @@ npm install next@latest react@latest react-dom@latest
 npm install @supabase/supabase-js
 ```
 
-#### Other packages
+#### Running the preview server
+
+```
+npm run dev
+```
+
+#### Installing other packages
 
 https://www.npmjs.com/
 
